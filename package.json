@@ -1,0 +1,17 @@
+{
+  "name": "webpack-debug-tools",
+  "version": "1.0.0",
+  "description": "Debug tools for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Max Sosnov",
+  "license": "ISC",
+  "dependencies": {
+    "@gribnoysup/wunderbar": "^1.2.0"
+  }
+}
